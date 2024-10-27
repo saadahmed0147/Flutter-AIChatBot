@@ -1,0 +1,3 @@
+// ignore: constant_identifier_names
+const OpenAi_API_KEY =
+    "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";
