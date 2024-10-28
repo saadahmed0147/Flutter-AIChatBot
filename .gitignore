@@ -1,4 +1,3 @@
-lib\Res\api_key.dart
 
 # Miscellaneous
 *.class
@@ -43,3 +42,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+lib\Res\api_key.dart
